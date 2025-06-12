@@ -92,7 +92,7 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/smokemoha/nigeria-map-app.git  # Replace with actual repository URL
+    git clone https://github.com/smokemoha/nigeria-map-app.git  
     cd nigeria-map-app
     ```
 
@@ -156,7 +156,7 @@ We welcome contributions to the Nigeria Map Application! To contribute, please f
 2.  **Clone your forked repository:**
 
     ```bash
-    git clone https://github.com/your-username/nigeria-map-app.git  # Replace with your forked repository URL
+    git clone https://github.com/your-username/nigeria-map-app.git  
     cd nigeria-map-app
     ```
 
