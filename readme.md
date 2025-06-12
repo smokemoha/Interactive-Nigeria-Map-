@@ -92,7 +92,7 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/nigeria-map-app.git  # Replace with actual repository URL
+    git clone https://github.com/smokemoha/nigeria-map-app.git  # Replace with actual repository URL
     cd nigeria-map-app
     ```
 
@@ -196,9 +196,6 @@ We welcome contributions to the Nigeria Map Application! To contribute, please f
 
 This project uses ESLint for code linting. Please ensure your code adheres to the configured style by running `pnpm lint` before committing.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
